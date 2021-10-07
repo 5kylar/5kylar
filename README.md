@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently studying Computer Science at UC Berkeley 🐻 and launching my next startup [Loan Link](https://loanlink.io). I am a skilled web and iOS developer with a keen focus on great UI/UX. My project repos are private to protect IP.
+I am an aspiring software engineer with an entrepreneurial drive. I am seeking a mission-driven team that is undertaking challenging, change-making problems. My technical experience to date is primarily web and iOS applications. I have a passion for creating sleek UI/UX experiences and never disappoint in delivering an outstanding front-end.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/5kylar)](https://www.linkedin.com/in/5kylar) 
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:ssarabia@protonmail.com)](mailto:ssarabia@protonmail.com)
