@@ -6,9 +6,23 @@ I am an aspiring software engineer with an entrepreneurial drive. I am seeking a
 
 
 
-## 📲 Projects
-* [Loan Link - Say Goodby to your Student Loans](https://loanlink.io)
-* [SYPHER Music - Listen Together with Spotify](https://apps.apple.com/us/app/sypher-music/id1374755518)
+# My Startups & Projects [All iOS Apps]
+
+## SYPHER Music - A Social Music Network
+[App Store Link](https://apps.apple.com/us/app/sypher-music/id1374755518)
+![Screen shots of the SYPHER app on several iPhones](sypher_app_store.png)
+
+## Loan Link - Fintech App
+[Landing Page](https://loanlink.io)
+![Screen shots of the SYPHER app on several iPhones](loan_link_screens.png)
+
+## COVID Dashboard
+![Screen shots of the SYPHER app on several iPhones](covid_dashboard.png)
+
+<!-- ## Student Loan Calculator - Amortization Calculator
+![Screen shots of the SYPHER app on several iPhones](loan_link_screens.png)
+ -->
+ 
 * [Student Loan Calculator](https://apps.apple.com/us/app/student-loan-calculator/id1469171129)
 * [TikPik](https://apps.apple.com/us/app/tikpik-new-profile-pictures/id1514358321)
 
