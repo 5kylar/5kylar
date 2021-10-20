@@ -6,7 +6,7 @@ I am an aspiring software engineer with an entrepreneurial drive. I am seeking a
 
 
 
-# My Startups & Projects [All iOS Apps]
+# My Projects
 
 ## SYPHER Music - A Social Music Network
 [App Store Link](https://apps.apple.com/us/app/sypher-music/id1374755518)
