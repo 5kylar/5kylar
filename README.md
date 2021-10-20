@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am an aspiring software engineer with an entrepreneurial drive. I am seeking a mission-driven team that is undertaking challenging, change-making problems. My technical experience to date is primarily web and iOS applications. I have a passion for creating sleek UI/UX experiences and never disappoint in delivering an outstanding front-end.
+I am an aspiring software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about designing and developing iOS/Web applications. This passion is demonstrated through several startup endeavors and personal projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/5kylar)](https://www.linkedin.com/in/5kylar) 
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:ssarabia@protonmail.com)](mailto:ssarabia@protonmail.com)
