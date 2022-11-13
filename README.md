@@ -13,7 +13,7 @@ I am an aspiring software engineer with an entrepreneurial drive. I am seeking t
 ![Screen shots of the SYPHER app on several iPhones](sypher_app_store.png)
 
 ## Loan Link - Fintech App
-[Landing Page](https://loanlink.io](https://loan-link.webflow.io))
+[Landing Page](https://loan-link.webflow.io)
 ![Screen shots of the SYPHER app on several iPhones](loan_link_screens.png)
 
 ## COVID Dashboard
