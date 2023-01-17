@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am an aspiring software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about designing and developing iOS/Web applications. This passion is demonstrated through several startup endeavors and personal projects.
+
+I am a software engineer with an entrepreneurial drive. I am not currently working on any entreprenural endeavors but here are some of the projects / startups I worked on in college.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/5kylar)](https://www.linkedin.com/in/5kylar) 
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:ssarabia@protonmail.com)](mailto:ssarabia@protonmail.com)
