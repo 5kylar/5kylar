@@ -4,7 +4,7 @@ My name is Skylar and I am a software engineer and entreprenur. I am currenlty w
 
 # Projects & Startups
 ## ReImagine / AI Avatars & Photos
-ReImagine is a simple iOS app where users can fine-tune a stable diffusion model on photos of themseleves and use custom prompts. They can also use off the shelf text-to-image models such as Stable Diffusion to create AI Photos. I built the finetuning and inferece pipelines on Google Cloud and a hybrid UIKit/SwiftUI iOS client.
+ReImagine is a straight forward iOS app where users can fine-tune a stable diffusion model on photos of themseleves and use custom prompts. They can also use off the shelf text-to-image models such as Stable Diffusion to create AI Photos. I built the finetuning and inferece pipelines on Google Cloud and a hybrid UIKit/SwiftUI iOS client.
 
 📲 [App Store Link](https://apps.apple.com/us/app/reimagine-ai/id6444014498) 🔗 [Why I Built ReImagine](https://www.linkedin.com/posts/5kylar_reimagine-ai-avatars-photos-activity-7034975566697009152-p08l?utm_source=share&utm_medium=member_desktop)
 
