@@ -12,7 +12,7 @@ ReImagine is a straight forward iOS app where users can fine-tune a stable diffu
 
 ## SYPHER / The Music Social Network
 📲 [App Store Link](https://apps.apple.com/us/app/sypher-music/id1374755518)
-🚀 [Landing Page](sypher.app)
+🚀 [Landing Page](https://sypher.app)
 
 [![Screen shots of the SYPHER app on several iPhones](sypher_app_store.png)](https://apps.apple.com/us/app/sypher-music/id1374755518)
 
