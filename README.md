@@ -1,6 +1,6 @@
 Hey There 🤙🏻,
  
-My name is Skylar and I am a software engineer and entreprenur. I am currenlty working full-time at Apple as an iOS engineer. Throughout my time in college I founded two startups, [SYPHER](https://apps.apple.com/us/app/sypher-music/id1374755518) and [Loan Link](https://loan-link.webflow.io). I am almost always working on some personal project, some of which make it to the App Store. I am currenlty tinkering with LLMs 🧪 and cookbooks 👨🏼‍🍳
+My name is Skylar and I am a software engineer and entreprenur. I am currenlty working full-time at Apple as an iOS engineer. Throughout my time in college I founded two startups, [SYPHER](https://apps.apple.com/us/app/sypher-music/id1374755518) and [Loan Link](https://loan-link.webflow.io). I am almost always working on some personal project, some of which make it to the App Store. I am currently tinkering with LLMs 🧪 and cookbooks 👨🏼‍🍳
 
 # Projects & Startups
 ## ReImagine / AI Avatars & Photos
